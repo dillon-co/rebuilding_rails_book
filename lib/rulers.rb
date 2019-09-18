@@ -13,7 +13,7 @@ module Rulers
     end
   end
 
-  class controller
+  class Controller
     def initialize(env)
       @env = env
     end
